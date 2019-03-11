@@ -4,6 +4,14 @@
     "bankName":"SBH"
   },
   {
+    "id":"1111",
+    "bankName":"RBI"
+  },
+  {
+    "id":"1010",
+    "bankName":"Canara"
+  },
+  {
     "id": "4006",
     "bankName": "bank of india"
   },
